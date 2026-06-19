@@ -71,7 +71,7 @@ $_SESSION['timeout'] = time();
                          <!-- Logo text -->
                         <span class="logo-text">
                              <!-- dark Logo text -->
-                             <img src="assets/images/logo-new.png" alt="homepage" width="100" />
+                             <img src="assets/images/logo-new.png?v=2" alt="homepage" width="100" />
                             
                         </span>
                         <!-- Logo icon -->
