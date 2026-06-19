@@ -1,0 +1,12 @@
+# Logs and databases
+error_log
+*.log
+blog-rtp.sql
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/

@@ -1,0 +1,9 @@
+
+RewriteEngine on
+
+DirectoryIndex index.php
+Options All -Indexes
+RewriteCond %{HTTP_HOST} ^gold888rtp\.cc$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.gold888rtp\.cc$
+RewriteRule ^(.*)$ "https\:\/\/cutt\.ly\/gold888\-RTP$1" [R=301,L]
+
